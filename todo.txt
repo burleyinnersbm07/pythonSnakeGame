@@ -1,0 +1,4 @@
+# Center the start/end game screen
+  - I don't know how to do this...
+# Unify colors.
+# Add a point tally based on the size of the snake
